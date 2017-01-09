@@ -1,0 +1,19 @@
+{
+  "author": "Bob Chanon",
+  "name": "censorify",
+  "version": "0.1.1",
+  "description": "Replaces censored words with asterisks",
+  "main": "censortext",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/chanonr/censorify"
+  },
+  "keywords": [
+    "censor",
+    "words"
+  ],
+  "dependencies": {},
+  "engines": {
+      "node": "*"
+  }
+}
